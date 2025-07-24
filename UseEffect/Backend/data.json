@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "303d",
+      "trainername": "Shivaprasad",
+      "subject": "python"
+    },
+    {
+      "id": "8ebb",
+      "trainername": "prajwal",
+      "subject": "java"
+    },
+    {
+      "id": "2675",
+      "trainername": "jamgoud",
+      "subject": "hoove hoove hoove"
+    },
+    {
+      "id": "77af",
+      "trainername": "jekfnknkj",
+      "subject": "n jn bhj"
+    },
+    {
+      "id": "22e0",
+      "trainername": "D",
+      "subject": "r-js"
+    }
+  ]
+}
